@@ -1,4 +1,3 @@
 # Audio-Amplifier
-
-##Hardware project
+## Hardware project
 
